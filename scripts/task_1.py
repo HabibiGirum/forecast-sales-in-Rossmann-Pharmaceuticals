@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-class RetailEDA:
+class EDA:
     def __init__(self, data_paths):
         """
         Initialize with data file paths.

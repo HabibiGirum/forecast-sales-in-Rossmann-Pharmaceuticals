@@ -10,6 +10,21 @@ The data team identified factors such as promotions, competition, school and sta
 
 our job is  to build and serve an end-to-end product that delivers this prediction to analysts in the finance team. 
 
+## Objective:
+
+- Check for distribution in both training and test sets — Are promotions distributed similarly?
+- Compare sales behavior before, during, and after holidays.
+- Identify seasonal (e.g., Christmas, Easter) purchase behaviors.
+- Analyze the correlation between sales and the number of customers.
+- Assess the impact of promotions on attracting new customers and retaining existing ones.
+- Identify effective promo deployment strategies across different stores.
+- Analyze customer behavior trends during store opening and closing times.
+- Assess sales behavior in stores open on weekdays vs. weekends.
+- Examine how assortment type affects sales.
+- Understand the effect of competitor proximity on sales.
+- Explore the impact of opening/reopening competitors on store performance
+
+
 ## Dataset
 
 Files

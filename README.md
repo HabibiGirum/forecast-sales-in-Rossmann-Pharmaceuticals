@@ -127,7 +127,7 @@ This repository includes EDA:
 
 
 ## Further documentation :
-[click me](https://drive.google.com/file/d/15aGTZZdOCfE5vhIW5yV4cRS2wzHES72a/view?usp=sharing)
+[click me](https://drive.google.com/file/d/15lnAwssyN6yGfZ1pa4_vC__7J1XkpY-Z/view?usp=drive_link)
 
 
 ## Author  

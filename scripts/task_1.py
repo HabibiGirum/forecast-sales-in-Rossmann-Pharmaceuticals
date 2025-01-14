@@ -37,6 +37,7 @@ class EDA:
         """Merge store data with train and test datasets."""
         self.train_merged_df = pd.merge(self.train, self.store, on='Store', how='left').drop(['PromoInterval'], axis=1)
         self.test_merged_df = pd.merge(self.test, self.store, on='Store', how='left')
+        
         logging.info("Data merged successfully.")
     
     def preprocess_data(self):
@@ -93,6 +94,7 @@ class EDA:
         plt.title('Monthly Sales Trend')
         plt.tight_layout()
         plt.show()
+    
     
     def run_pipeline(self):
         """Run the full EDA pipeline."""
